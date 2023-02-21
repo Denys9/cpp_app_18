@@ -28,9 +28,10 @@ int main()
         }
         
     }
-    cout << "\nletters -  " << letters;
-    cout << "\nnumber - " << numbers;
-    cout << "\nsymbols - " << symbols << endl;
-    
+    cout << "--------------------------------";
+    cout << "\nletters in string -  " << letters;
+    cout << "\nnumber in string - " << numbers;
+    cout << "\nsymbols in string - " << symbols << endl;
+    cout << "--------------------------------";
     return 0;
 }
