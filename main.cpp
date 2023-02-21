@@ -28,9 +28,9 @@ int main()
         }
         
     }
-    cout << "letters -  " << letters << endl;
-    cout << "number - " << numbers << endl;
-    cout << "symbols - " << symbols << endl;
+    cout << "\nletters -  " << letters;
+    cout << "\nnumber - " << numbers;
+    cout << "\nsymbols - " << symbols << endl;
     
     return 0;
 }
